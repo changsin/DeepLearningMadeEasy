@@ -12,6 +12,9 @@ With a few clicks, you can train a model and can deploy to your device or web si
 Image, Audio, and Pose are the three supported project type right now,
 but there might be more in the future.
 
+Here is a deployed [rock-paper-scissors](https://ai-rock-paper-scissors.netlify.app/)
+model trained by Teachable Machine Learning.
+
 ## Pros
 - Intuitive and easy to use
 - Can deploy easily to an edge device or a website
